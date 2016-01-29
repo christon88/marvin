@@ -12,7 +12,7 @@
 module.exports = function (robot) {
 
   robot.respond(/(tumbleweeds)/i, function (msg) {
-    msg.send("http://i.imgur.com/LklRY3h.gif");
+    msg.send("http://media.giphy.com/media/ifpqLMmOorPq0/giphy.gif");
   });
 
 };
